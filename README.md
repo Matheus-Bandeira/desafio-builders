@@ -60,4 +60,5 @@ Acesso:
 - No arquivo de configuração application.properties é necessário colocar om perfil da aplicação.
 - De início, foi configurado 3 perfis : test, dev e prod.
 - No arquivo application-dev.properties tem 2 configurações : banco local e do banco no docker.
+- No banco de dados de produção (Heroku) foi inserido alguns registros.
 
